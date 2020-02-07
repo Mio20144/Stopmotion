@@ -1,0 +1,28 @@
+<AnimaShooterProject>
+    <Version bugfx="12" major="3" devel="7" mod="Capture" minor="8"/>
+    <FrameSettings previewImageMirror="0" refImageScale="100" timelineRangeStart="0" lightboxMode="0" crop="0" techInfoOn="1" frameBorderOpacity="1" gridOpacity="1" safeAreaOpacity="1" stackDepth="4" rotate="0" safeAreaOn="0" guidesOn="0" sightOpacity="1" sequenceExportSizeW="1920" smoothRender="0" thirdsGridOpacity="1" marginsOn="0" marginsOpacity="0.5" cropAreaOn="0" preserveHighlightsValue="0" wideCross="0" cropRAW="1" resize="1" applyDigitalExposure="0" applyCameraWB="0" pendulumOn="0" frameNamePrefix="frame" guidesOpacity="1" ramPreviewLoop="1" gridOn="0" preserveHighlights="0" ruleOfThirdsGridOn="0" scalePreviewImage="1" gridHStep="300" useFrameNameMask="0" crossOn="0" digitalExposure="10" frameWidth="540" timelineRangeEnd="18" pathColor="#00aaff" frameHeight="360" gridVStep="300" flipFlopDuration="500" videoExportPolicy="1" startIndex="0" ramPreviewHeight="529" previewImageShiftX="0" timelineH="252" previewImageShiftY="0" ramPreviewWidth="918" exportSizeW="1920" lightboxColor="#00ff00" grayscale="0"/>
+    <CanonCameraSettings Tv="034.1/80" ISO="005.3200" WBtemp="2800" Av="001.4" ExpoComp="" ICCpath="" PictureStyle="" WB="Cloudy"/>
+    <Path pathData="PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjM1NS45NTNtbSIgaGVpZ2h0PSIyMDAuMDI1bW0iCiB2aWV3Qm94PSIwIDAgMTAwOSA1NjciCiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAgdmVyc2lvbj0iMS4yIiBiYXNlUHJvZmlsZT0idGlueSI+CjxkZWZzPgo8L2RlZnM+CjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIHN0cm9rZS13aWR0aD0iMSIgZmlsbC1ydWxlPSJldmVub2RkIiBzdHJva2UtbGluZWNhcD0ic3F1YXJlIiBzdHJva2UtbGluZWpvaW49ImJldmVsIiA+Cgo8cGF0aCB2ZWN0b3ItZWZmZWN0PSJub24tc2NhbGluZy1zdHJva2UiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iIi8+CjwvZz4KPC9zdmc+Cg=="/>
+    <RenderVideoSettings exportFramesInRangeOnly="1" translitOn="0" timecode="0" fps="5" exportPicFormat="0" exportVideoFileName="videotest" playerRangeStart="0" playerRangeEnd="0" exportPath="" crop="0"/>
+    <ProjectInfo movieLayer="" authorSurname="" movieTitle="" authorMiddleName="" authorName="" movieScene="" movieDirector=""/>
+    <Filters enabled="0" saturation="50" denoise="0" contrast="0"/>
+    <Frame mirrored="0" capFull="frame_norm_000000_200205133031.jpg" refFull="" hidden="0" capTumb="frame_mini_000000_200205133031.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000001_200205133041.jpg" refFull="" hidden="0" capTumb="frame_mini_000001_200205133041.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000002_200205133047.jpg" refFull="" hidden="0" capTumb="frame_mini_000002_200205133047.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000003_200205133053.jpg" refFull="" hidden="0" capTumb="frame_mini_000003_200205133053.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000004_200205133100.jpg" refFull="" hidden="0" capTumb="frame_mini_000004_200205133100.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000005_200205133107.jpg" refFull="" hidden="0" capTumb="frame_mini_000005_200205133107.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000006_200205133128.jpg" refFull="" hidden="0" capTumb="frame_mini_000006_200205133128.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000007_200205133142.jpg" refFull="" hidden="0" capTumb="frame_mini_000007_200205133142.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000008_200205133149.jpg" refFull="" hidden="0" capTumb="frame_mini_000008_200205133149.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000009_200205133159.jpg" refFull="" hidden="0" capTumb="frame_mini_000009_200205133159.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000010_200205133207.jpg" refFull="" hidden="0" capTumb="frame_mini_000010_200205133207.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000011_200205133525.jpg" refFull="" hidden="0" capTumb="frame_mini_000011_200205133525.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000012_200205133529.jpg" refFull="" hidden="0" capTumb="frame_mini_000012_200205133529.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000013_200205133535.jpg" refFull="" hidden="0" capTumb="frame_mini_000013_200205133535.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000014_200205133543.jpg" refFull="" hidden="0" capTumb="frame_mini_000014_200205133543.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000015_200205133554.jpg" refFull="" hidden="0" capTumb="frame_mini_000015_200205133554.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000016_200205133606.jpg" refFull="" hidden="0" capTumb="frame_mini_000016_200205133606.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000017_200205133615.jpg" refFull="" hidden="0" capTumb="frame_mini_000017_200205133615.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000018_200205133625.jpg" refFull="" hidden="0" capTumb="frame_mini_000018_200205133625.jpg" static="-1" refTumb=""/>
+</AnimaShooterProject>
